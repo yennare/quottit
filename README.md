@@ -1,2 +1,2 @@
-# quottit
-A simple Chrome extension to make and share beautiful quotes from Reddit comments.
+# Quottit
+A simple Chrome extension to share beautiful pictures with quotes from Reddit comments.
